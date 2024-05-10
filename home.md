@@ -12,6 +12,8 @@ description: >-
 
 Continuation of object-centered design and implementation in C++. Building programs from modules. Data abstractions and classes to implement abstract data types. Static and dynamic memory allocation. Data structure implementation and algorithm efficiency. Lists, tables, stacks, and queues. Templates and generic programming.
 
+---
+
 ## Table of contents
 {: .no_toc .text-delta }
 
