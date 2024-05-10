@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Home
 has_children: false
 nav_order: 1
