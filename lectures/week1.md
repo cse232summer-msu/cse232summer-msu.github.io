@@ -1,14 +1,17 @@
 ---
 layout: page
-title: Week 01
-permalink: /lectures/week01
+title: Week 1
+permalink: /lectures/week1
 parent: Lectures
 description: >-
-    Lectures for week 01.
+    Lectures for week 1.
 ---
 
-# Week 00
-Labs begin this week (the first week of the semester). Please check your schedule and show up for your scheduled lab.
+# Week 1
+
+Lectures will be available at the beginning of week 1.
+
+<!-- Labs begin this week (the first week of the semester). Please check your schedule and show up for your scheduled lab.
 
 Each week will have readings from the required textbook, slides, lecture videos, example code, and other relevant notes. Each week will also have a sample exam focusing on the current week's topics. Consider reading the sample exam questions before doing the readings and watching the lectures and answering it as you do.
 
@@ -53,4 +56,4 @@ This is only relevant to members of the Honors College.
 
 <div align="center">
 <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/811482/sp/81148200/embedIframeJs/uiconf_id/27551951/partner_id/811482?iframeembed=true&playerId=kaltura_player&entry_id=1_2trcmecf&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_cwdh35py" width="640" height="396" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="CSE 232 - Functions"></iframe>
-</div>
+</div> -->
