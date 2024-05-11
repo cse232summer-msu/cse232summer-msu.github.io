@@ -26,26 +26,39 @@ schedule:
       - name: Weekly Lecture Release
         start: 9:00 AM
         end: 9:30 AM
-        location:
+        location: Course Website
       - name: Assignment Due
         start: 11:00 PM
         end: 11:30 PM
-        location:
+        location: D2L
   - name: Tuesday
-      - name: Flash Quiz Due
-        start: 11:00 PM
-        end: 11:30 PM
-        location:
   - name: Wednesday
+    events:
+      - name: Lecture
+        start: 9:30 AM
+        end: 10:30 AM
+        location: 150 Wheeler
+      - name: Section
+        start: 11:30 AM
+        end: 12:30 PM
+        location: 310 Soda
+      - name: Office Hours
+        start: 12:30 PM
+        end: 2:00 PM
+        location: 271 Soda
   - name: Thursday
-      - name: Assignment Due
-        start: 11:00 PM
-        end: 11:30 PM
-        location:
   - name: Friday
     events:
-      - name: Flash Quiz Due
-        start: 11:00 PM
-        end: 11:30 PM
-        location:
+      - name: Lecture
+        start: 9:30 AM
+        end: 10:30 AM
+        location: 150 Wheeler
+      - name: Section
+        start: 11:30 AM
+        end: 12:30 PM
+        location: 310 Soda
+      - name: Office Hours
+        start: 12:30 PM
+        end: 2:00 PM
+        location: 271 Soda
 ---
