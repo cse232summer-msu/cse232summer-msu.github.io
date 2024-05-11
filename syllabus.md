@@ -26,40 +26,37 @@ Summer Semester, 2024
 
 ### Course Description
 
-Introduction to Programming II: Learn how to use the C++ language effectively, to write readable, and efficient programs. Learn how to use the abstractions in the language, as well as writing your own abstractions. Learn about the static type system, and the C++ compilation model. Learn how to use simple data structures, and write some of your own.
+In this course, you will learn how to use the C++ language effectively, to write readable, and efficient programs, learn how to use the abstractions in the language, as well as writing your own abstractions, learn about the static type system, and the C++ compilation model, learn how to use simple data structures, and write some of your own.
 
 ### Objectives
 
 The focus of the course will be twofold:
 - Learn the C++ language, with a focus on using the available functionality in the STL.
-- Learn how these tools work under the hood, so you can design your own data structures and algorithms.
+- Learn how these tools work, so you can design your own data structures and algorithms.
 
 ## Course Materials
-- $40 Payment to Codio, details presented in first lab.
-- Required Textbook (only purchase the physical copy)
-    - [Tour of C++, 3rd Ed. by Bjarne Stroustrup](https://www.informit.com/store/tour-of-c-plus-plus-9780136816485)
-- You must have a desktop or laptop computer capable of running Zoom and screen-sharing.
-- You must have a phone or tablet capable of running Zoom with a camera that can show your workspace while taking exams.
-- You must have a consistent internet connection for streaming video through Zoom, and watching lecture videos.
-- Recommended (but not required) supplemental textbooks:
-    - [C++ Primer, 5th Ed. by Lippman, Lajoie, Moo.](https://www.pearson.com/en-us/subject-catalog/p/c-primer/P200000000436) ISBN-13: 978-0321714114
-    - [Introduction to C++, 1st Ed. by George S. Tselikis](https://www.routledge.com/Introduction-to-C/Tselikis/p/book/9781032136080)
+<!-- - $40 Payment to Codio, details presented in first lab. -->
+- Textbooks
+    - [Tour of C++, 3rd Ed. by Bjarne Stroustrup](https://www.google.com/search?q=A+Tour+of+C%2B%2B%2C+3rd+Edition) (Required)
+    - [C++ Primer, 5th Ed. by Lippman, Lajoie, Moo.](https://www.google.com/search?q=C%2B%2B+Primer%2C+5th+Edition) (Supplemental)
+    <!-- - [Introduction to C++, 1st Ed. by George S. Tselikis](https://www.google.com/search?q=Introduction+to+C%2B%2B%2C+1st+Edition) (Supplemental) -->
+- A desktop or laptop computer capable of running Zoom and screen-sharing.
+- A phone or a tablet capable of running Zoom with a camera that can show your workspace while taking exams.
+- A stable internet connection for streaming video through Zoom, and watching lecture videos.
 
 ## Lectures
 
-All lectures are distributed via pre-recorded videos available each week on the course website. You are welcome to work ahead of the schedule, however, some videos will be updated as the semester progresses. Watching the videos closely (I recommend taking notes) is essential to being able to complete the labs, homework assignments, and exams in this course. Each week's lectures will have assigned readings from the required textbook.
+All lectures are distributed via pre-recorded videos available each week on the course website. Each week's lecture will be made available at the beginning of the corresponding week. Watching the videos closely (while taking notes) is essential in being able to succeeed in the assignments and the exams in this course. Each week's lectures will have assigned readings from the required textbook.
 
-## Laboratory Sessions
+<!-- ## Laboratory Sessions
 
 Lab section will be conducted in STEM 2201. Performing the work assigned in your laboratory section is *mandatory*.
 
-The lab sessions are designed to be learning tools that complement the lectures, as well as collaborative experiences where students work with each other and the Teaching Assistants to complete the exercise. Students who are late to lab might not receive credit for that session. Attendance is based on a good faith effort, i.e., the TAs will decide if you have put in a sincere effort to participate actively, collaborate with others, and attempt to complete the exercise. Each lab tends to cover content up to and including the week prior.
+The lab sessions are designed to be learning tools that complement the lectures, as well as collaborative experiences where students work with each other and the Teaching Assistants to complete the exercise. Students who are late to lab might not receive credit for that session. Attendance is based on a good faith effort, i.e., the TAs will decide if you have put in a sincere effort to participate actively, collaborate with others, and attempt to complete the exercise. Each lab tends to cover content up to and including the week prior. -->
 
 ## Communication
 
-In-person communication can be done at help room. For all other circumstances, communication with the instructors should be done through Piazza (with a public or private post). Emails *will not* be responded to.
-
-All class announcements will be made through Piazza, as well as direct messages from the instructors. The instructor reserves the right to modify course policies, scheduling, and assignment specifications as necessary for unanticipated events.
+All forms of communication with the course staff should be done through Ed Discussion (via public or private posts). All class announcements will be made through Ed Discussion. The course instructor reserves the right to modify course policies, scheduling, and assignment specifications, should the necessity arise.
 
 ## Grading
 
@@ -79,31 +76,31 @@ A total of 100 points can be accrued over the course of the semester. There will
                 <td>4.0</td>
             </tr>
             <tr>
-                <td>85-89.9</td>
+                <td>85-89</td>
                 <td>3.5</td>
             </tr>
             <tr>
-                <td>80-84.9</td>
+                <td>80-84</td>
                 <td>3.0</td>
             </tr>
             <tr>
-                <td>75-79.9</td>
+                <td>75-79</td>
                 <td>2.5</td>
             </tr>
             <tr>
-                <td>70-74.9</td>
+                <td>70-74</td>
                 <td>2.0</td>
             </tr>
             <tr>
-                <td>65-69.9</td>
+                <td>65-69</td>
                 <td>1.5</td>
             </tr>
             <tr>
-                <td>60-64.9</td>
+                <td>60-64</td>
                 <td>1.0</td>
             </tr>
             <tr>
-                <td>0-59.9</td>
+                <td>0-59</td>
                 <td>0.0</td>
             </tr>
         </tbody>
@@ -112,39 +109,45 @@ A total of 100 points can be accrued over the course of the semester. There will
 
 ### Exams
 
-#### Multiple Choice Exams
-There will be a three synchronous multiple choice exams, named "Midterm Exam 1", "Midterm Exam 2", and "Final Exam". Each is worth 150 points. The Final Exam score will replace the score of the lowest scoring midterm if the Final Exam is higher. 
+<!-- #### Multiple Choice Exams -->
 
-#### Coding Exams
-Additionally, there will be two lab practical coding exams ("Midterm Coding Exam" and "Final Coding Exam") which will take place in lab each worth 150 points. 
+There will be a three synchronous exams, named "Exam 1", "Exam 2", and "Final Exam". Exam 1 and Exam 2 are worth 20 points each. Final Exam is worth 30 points.
+
+<!-- #### Coding Exams
+
+Additionally, there will be two lab practical coding exams ("Midterm Coding Exam" and "Final Coding Exam") which will take place in lab each worth 150 points.
 
 ### Labs
 
 There are 11 graded labs throughout the semester, each lab is worth 10 points. There are two ways to earn these points:
 
 #### Preferred Option:
+
 If you attend your in-person lab section, come prepared (having watched the previous week's lectures), follow directions, and participate, you will be awarded full credit by your lab's TAs, regardless of the actual progress made on the lab assignment.
 
 #### Alternative Option
-You can alternatively complete the lab assignment by 10pm of Monday the following week and earn the points associated with that lab.
 
-### Homework
+You can alternatively complete the lab assignment by 10pm of Monday the following week and earn the points associated with that lab. -->
 
-A homework assignment will be due every Thursday at 10 PM. Each homework assignment is worth 10 points. There will be 14 graded assignments given. Homework assignments will cover content from the week they are due as well as material covered earlier in the course. At the due date, solutions will be released to aid students that have yet to complete the assignment. Homework assignments will be accepted up to two days after the original due date.
+### Assignments and Flash Quizzes
 
-## Honors Section
+There are two assignments and two flash quizzes every week. Assignments are due Mondays and Thursdays before 11:59pm. Flash quizzes are due Tuesdays and Fridays before 11:59. Assignments and flash quizzes will cover content from the week they are due as well as material covered earlier in the course.
+
+<!-- A homework assignment will be due every Thursday at 10 PM. Each homework assignment is worth 10 points. There will be 14 graded assignments given. Homework assignments will cover content from the week they are due as well as material covered earlier in the course. At the due date, solutions will be released to aid students that have yet to complete the assignment. Homework assignments will be accepted up to two days after the original due date. -->
+
+<!-- ## Honors Section
 
 To earn honors credit for this course, you need to be enrolled in an Honors Lab Section. The honors lab sections and non-honors lab sections have the labs will cover different material. Instead of practicing on programming assignments covering recently taught material, they will teach new, advanced programming techniques in C++. 
 
 Additionally, students enrolled in an honors lab section must earn at least 90 points on honors lab assignments to receive a passing grade. The in-lab coding exams for the honors lab sections will have content specific to material covered in the honors lab sections.
 
-We encourage honors lab sections students to also complete the non-honors lab assignments for practice, but it isn't required, nor worth points.
+We encourage honors lab sections students to also complete the non-honors lab assignments for practice, but it isn't required, nor worth points. -->
 
 ## Extensions
 
-Make-ups for examinations may be arranged if your absence is caused by a documented illness or personal emergency. A written explanation (including supporting documentation) must be submitted to your lecture instructor via Piazza; if the explanation is acceptable, an alternative to the examination will be arranged. When possible, make-up arrangements should be completed in advance.
+Make-ups for examinations may be arranged if your absence is caused by a documented illness or personal emergency. A written explanation (including supporting documentation) must be submitted to your course instructor. If the explanation is acceptable, an alternative to the examination will be arranged. When possible, make-up arrangements should be completed in advance.
 
-A student who is unable to complete an assignment by the specified due date because of illness or a personal emergency should contact their lecture instructor. If the student's explanation is acceptable, the assignment due date will be extended (or their lecture instructor will make other appropriate arrangements).
+A student who is unable to complete an assignment by the specified due date because of illness or a personal emergency should contact their course instructor. If the student's explanation is acceptable, the assignment due date will be extended (or their lecture instructor will make other appropriate arrangements).
 
 ## Academic Honesty
 
