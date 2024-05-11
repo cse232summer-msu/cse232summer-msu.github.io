@@ -32,17 +32,20 @@ schedule:
         end: 11:30 PM
         location: D2L
   - name: Tuesday
+    events:
       - name: Flash Quiz Due
         start: 10:30 PM
         end: 11:30 PM
         location: D2L
   - name: Wednesday
   - name: Thursday
+    events:
       - name: Assignment Due
         start: 10:30 PM
         end: 11:30 PM
         location: D2L
   - name: Friday
+    events:
       - name: Flash Quiz Due
         start: 10:30 PM
         end: 11:30 PM
