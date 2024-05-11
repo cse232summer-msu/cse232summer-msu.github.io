@@ -12,9 +12,9 @@ description: >-
 We recommend Visual Studio Code (VSCode) as a text editor for this course. We offer setup tutorials and CSE 232-specific configuration files for debugging. You are free to install and work with other text editors, but are responsible for knowing how to use it.
 
 Choose the tutorial that corresponds to your operating system, if wanting to use VSCode:
-- [Windows](vscode/windows)
-- [MacOS](vscode/macos)
-- [Linux](vscode/linux)
+- [Windows](windows)
+- [MacOS](macos)
+- [Linux](linux)
 
 These tutorials will have you setup the VSCode debugger. If you are unfamiliar with how to use an IDE debugger, [you can find a brief guide here](debugging_guide.html).
 
