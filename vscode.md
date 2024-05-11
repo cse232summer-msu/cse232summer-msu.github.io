@@ -1,7 +1,8 @@
 ---
 layout: page
 title: VSCode
-has_children: false
+permalink: /vscode/
+has_children: true
 nav_order: 3
 description: >-
     Setting up VSCode.
