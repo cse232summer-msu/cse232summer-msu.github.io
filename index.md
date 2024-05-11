@@ -1,4 +1,1 @@
----
-layout: forward
-target: https://cse232summer-msu.github.io/home/
----
+<meta http-equiv="refresh" content="0; url=/home/">
