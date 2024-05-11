@@ -1,4 +1,4 @@
 ---
 layout: forward
-target: /:path/home/
+target: /home/
 ---
