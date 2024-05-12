@@ -3,8 +3,7 @@ layout: page
 title: Home
 has_children: false
 nav_order: 1
-description: >-
-    Course home.
+description: Course home.
 ---
 
 # CSE 232 - Introduction to Programming II
@@ -43,18 +42,18 @@ Resources:
 
 ## Course Schedule
 
-There are two assignments and two flash quizzes every week. Assignments are due Mondays and Thursdays before 11:59pm. Flash quizzes are due Tuesdays and Fridays before 11:59.
+There are two online asynchronous assignments and two online asynchronous flash quizzes every week, starting from the second week. Assignments are due Mondays and Thursdays before 11:59pm. Flash quizzes are due Tuesdays and Fridays before 11:59pm. Due dates are subject to change, but if a change is made, an announcement will be posted on Ed Discussion.
 
-Due dates are subject to change, but if a change is made, an announcement will be posted to Ed Discussion.
+There are also three online synchronous exams. The exam dates and times are TBD.
 
 <!-- Below are links to the lectures for that week. All other material will be provided via D2L. -->
 
 ## Help Room Schedule
 
-Help Room is conducted through Zoom. You can find the link to the meeting and the times on Ed Discussion. Help Room will begin the evening of May 15, 2024.
+Help room is conducted through Zoom. Once announced, the help room schedule can be found on Ed Discussion. Help room begins on the evening of May 15, 2024.
 
-Please be aware that you may not receive the attention you desire if you attend help room very near an assignment deadline. So please consider attending help room prior to the day an assignment is due as there will be less demand. 
+Be advised that if you decide to attend help rooms close to an assignment due date, the help room staff may not be able to assist you properly due to already having to deal with a potentially long queue. Please consider attending help rooms prior to the day an assignment is due.
 
-Please direct any and all written communication to Ed Discussion. Emails may not be responded to.
+<!-- Please direct any and all written communication to Ed Discussion. Emails may not be responded to.
 
-If you would like a one-on-one meeting with an instructor, please make a private Ed Discussion post detailing your request and availability.
+If you would like a one-on-one meeting with an instructor, please make a private Ed Discussion post detailing your request and availability. -->
