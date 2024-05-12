@@ -3,7 +3,7 @@ name: Dr. Anik Momtaz
 role: Instructor
 email: momtazan@msu.edu
 # website: https://kevinl.info
-# photo: kevin.jpg
+photo: momtaz.jpg
 meta:
   Office Hours: TBD
 ---
