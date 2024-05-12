@@ -234,8 +234,8 @@ def convert_bin_str_to_int(bin_str):
 # would be useful in converting both numbers
 ints = map(convert_bin_str_to_int, bin_strs)
 
-# This Piazza post helped me determine how to print binary numbers with padding:
-# https://piazza.com/class/lldas7863631i176d/post/7
+# This Ed Discussion post helped me determine how to print binary numbers with padding:
+# https://edstem.org/us/courses/01234/discussion/56789
 print("{0:06b}".format(sum(ints)))
 ```
 
