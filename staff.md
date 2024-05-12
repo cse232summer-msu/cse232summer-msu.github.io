@@ -11,7 +11,7 @@ Contact information and office hours for the course staff.
 
 ---
 
-## Instructors
+## Instructor
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
