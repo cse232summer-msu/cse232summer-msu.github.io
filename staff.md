@@ -21,6 +21,7 @@ Contact information and office hours for the course staff.
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
+
 ## Teaching Assistants
 
 {% for staffer in teaching_assistants %}
