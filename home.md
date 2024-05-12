@@ -33,7 +33,7 @@ Resources:
 - [Code Academy](https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-hello-world/cheatsheet)
 - [begin(c++)](https://gist.github.com/johnmcfarlane/1b2d9c83e4d3f700ba61e2df4077c613)
 - [105 STL Algorithms in Less Than an Hour](https://www.youtube.com/watch?v=2olsGf6JIkU)
-- [Debugging Guide](vscode/debugging)
+- [Debugging Guide](debugging)
 - [OnlineGDB](https://www.onlinegdb.com/)
 - [Standard Algorithms (and Rest of C++) Cheatsheets](https://hackingcpp.com/cpp/cheat_sheets.html)
 - [Unix Tutorial](https://www.tutorialspoint.com/unix/index.htm)
