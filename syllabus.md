@@ -41,11 +41,11 @@ The focus of the course will be twofold:
     <!-- - [Introduction to C++, 1st Ed. by George S. Tselikis](https://www.google.com/search?q=Introduction+to+C%2B%2B%2C+1st+Edition) (Supplemental) -->
 - A desktop or laptop computer capable of running Zoom and screen-sharing.
 - A phone or a tablet capable of running Zoom with a camera that can show your workspace while taking exams.
-- A stable internet connection for streaming video through Zoom, and watching lecture videos.
+- A stable internet connection for streaming video through Zoom, and for watching lecture videos.
 
 ## Lectures
 
-All lectures are distributed via pre-recorded videos available each week on the course website. Each week's lecture will be made available at the beginning of the week. Watching the videos closely (while preferably taking notes) is essential in being able to succeeed in the assignments, quizzes, and the exams in this course. Each week's lectures will have assigned readings from the required textbook.
+All lectures are distributed via pre-recorded videos available each week on the course website. Each week's lecture will be made available at the beginning of the week. Watching the videos closely (while preferably taking notes) is essential in being able to succeed in the assignments, quizzes, and the exams in this course. Each week's lectures will have assigned readings from the required textbook.
 
 <!-- ## Laboratory Sessions
 
@@ -73,7 +73,7 @@ We encourage honors lab sections students to also complete the non-honors lab as
 
 ### Flash Quizzes
 
-There are two flash quizzes every week. A flash quiz is due one day after every assignment, and covers the same content as the assignment it is coupled with. Flash quizzes can be 5 to 10 minutes in duration, where you will have (on average) 15 seconds to answer each multiple choice question.
+There are two flash quizzes every week. A flash quiz is due one day after every assignment, and covers the same content as the assignment it is coupled with. Flash quizzes can be 5 to 10 minutes in duration, where you will have (on average) 15 seconds to answer each multiple-choice question.
 
 ### Exams
 
@@ -111,12 +111,12 @@ The grading categories for this course and their contributions to the final grad
         </thead>
         <tbody align="center">
             <tr>
-                <td>Flash Quizzes</td>
-                <td>10%</td>
-            </tr>
-            <tr>
                 <td>Assignments</td>
                 <td>20%</td>
+            </tr>
+            <tr>
+                <td>Flash Quizzes</td>
+                <td>10%</td>
             </tr>
             <tr>
                 <td>Exam 1</td>
@@ -185,7 +185,7 @@ Grades are rounded to the nearest integer. Therefore, a grade of 89.5 will round
 
 ## Extensions
 
-Make-ups for examinations may be arranged if your absence is caused by a documented illness or personal emergency. A written explanation (including supporting documentation) must be emailed to Dr. Momtaz. If the explanation is acceptable, an alternative to the examination will be arranged. When possible, make-up arrangements should be completed in advance.
+Make-up exams may be arranged if your absence is caused by a documented illness or personal emergency. A written explanation (including supporting documentation) must be emailed to Dr. Momtaz. If the explanation is acceptable, an alternative to the examination will be arranged. When possible, make-up arrangements should be completed in advance.
 
 If you are unable to complete an assignment before the specified due date because of illness or a personal emergency, you should contact Dr. Momtaz as early as possible. If the explanation is acceptable, the assignment due date will be extended, and other necessary arrangements will be made.
 
@@ -201,11 +201,11 @@ Plagiarism (unsourced use of others' intellectual property) is not allowed. Howe
 
 ### Examples Of Academic Misconduct
 
-A goal of this course is to teach professionalism. Any instance of academic dishonesty will be viewed as evidence that this goal has not been achieved, and will be grounds for receiving a final grade of 0.0. Examples of academic dishonesty include (but are not limited to):
+One of the goals of this course is to teach professionalism. Any instance of academic dishonesty will be viewed as evidence that this goal has not been achieved, and will be grounds for receiving a final grade of 0.0. Examples of academic dishonesty include (but are not limited to):
 
 - Using code implemented by someone else without attributing credit (i.e., you can use tools, libraries, or code snippets from the web, but only with proper citations).
-- Violating exam policies (e.g. communicating during the multiple choice exam, or using AI during an exam).
-- Writing code that deceptively passes the test cases, but doesn't solve the problem given. In other words, abusing automatic grader mechanisms to gain unearned points (hard-coding).
+- Violating exam policies (e.g. communicating or using AI during an exam).
+- Writing code that deceptively passes the test cases, but doesn't solve the problem given. In other words, abusing automatic grader mechanisms to gain unearned points (hard coding).
 - Distributing course content without the instructor's permission.
 - Providing false information to the instructor about matters related to the course.
 - Facilitating another student in any of the above activities.
@@ -245,11 +245,11 @@ Exception, here are sources which don't require attribution (so that you don't h
 - Documentation from the linked reference websites (python.org, cppreference.com, cplusplus.com)
 - Required or supplemental textbooks
 
-Everything else, including conceptual discussions with other students should be attibuted.
+Everything else, including conceptual discussions with other students should be attributed.
 
 ### Generative AI
 
-The use of generative AI (e.g. ChatGPT, GitHub Copilot, Bard) is permitted on assignments with attribution. However, we strongly recommend not becoming overly reliant on such tools, as they are not permitted on exams. Additionally, the assignments are given primarily to provide the opprotunity to practice the application of the material taught, and merely asking AI to generate a solution without learning how to solve the problems yourself robs you of that practice.
+The use of generative AI (e.g. ChatGPT, GitHub Copilot, Bard) is permitted on assignments with attribution. However, we strongly recommend not becoming overly reliant on such tools, as they are not permitted on exams. Additionally, the assignments are given primarily to provide the opportunity to practice the application of the material taught, and merely asking AI to generate a solution without learning how to solve the problems yourself robs you of that practice.
 
 <!-- So we recommend against the use of generative AI as a "solve me" button, but if you feel that it allows you to better learn the material, you are welcome to use it. -->
 
@@ -267,15 +267,15 @@ The goal of this class is for you to learn. If you find that anything is coming 
 
 ## Grief Absence Policy
 
-If there are unfortunate circumstances that would lead you to have unexpected absences, MSU has a [Grief Absence Policy](https://reg.msu.edu/ROInfo/Notices/GriefAbsence.aspx). Please contact the Associate Dean, and we will make every effort to aid you in continuing the class after we recieve confirmation from the administration.
+If there are unfortunate circumstances that would lead you to have unexpected absences, MSU has a [Grief Absence Policy](https://reg.msu.edu/ROInfo/Notices/GriefAbsence.aspx). Please contact the Associate Dean, and we will make every effort to aid you in continuing the class after we receive confirmation from the administration.
 
 ## Resource Center for Persons with Disabilities
 
-Michigan State University is committed to providing equal opprotunity for participation in all programs, services and activities. Requests for acommodations by persons with disabilities may be made by contacting the [Resource Center for Persons with Disabilities](https://www.rcpd.msu.edu/) at 517-884-RCPD. Once your eligibility for an accommodation has been determined, you will be issued an accommodation letter. Please email this form to Dr. Momtaz within the first two weeks of the semester.
+Michigan State University is committed to providing equal opportunity for participation in all programs, services, and activities. Requests for accommodations by persons with disabilities may be made by contacting the [Resource Center for Persons with Disabilities](https://www.rcpd.msu.edu/) at 517-884-RCPD. Once your eligibility for accommodation has been determined, you will be issued an accommodation letter. Please email this form to Dr. Momtaz within the first two weeks of the semester.
 
 ## Religious Observances
 
-Accommodations will be made for religious observances if requests are made well in advance. Since religious observances are usually known at the beginning of class and assignment due dates are in the schedule, we expect students to request accommodation at the beginning of the semester, but we require that accomadations be requested at least 2 weeks before the observance. See MSU's [Religious Observance Policy](https://reg.msu.edu/ROInfo/Notices/ReligiousPolicy.aspx) for more details.
+Accommodation will be made for religious observances if requests are made well in advance. Since religious observances are usually known at the beginning of class and assignment due dates are in the schedule, we expect students to request accommodation at the beginning of the semester, but we require that accommodations be requested at least 2 weeks before the observance. See MSU's [Religious Observance Policy](https://reg.msu.edu/ROInfo/Notices/ReligiousPolicy.aspx) for more details.
 
 ## Acceptable Use Policy
 
