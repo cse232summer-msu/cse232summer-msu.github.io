@@ -59,7 +59,7 @@ All forms of communication with the course staff should be done through Ed Discu
 
 ### Assignments
 
-There are two assignments every week. Assignments are due Mondays and Thursdays before 11:59pm, and will either cover content from everything up until and including the previous week (Monday assignments), or everything up until and including the running week (Thursday assignments).
+There are two assignments every week, except for the first week (no assignments) and the exam weeks (one assignment). Assignments are due Mondays and Thursdays before 11:59pm, and will either cover content from everything up until and including the previous week (Monday assignments), or everything up until and including the running week (Thursday assignments). Assignments will be released at least a week before their due dates. Assignments submitted late by less than 24 hours will incur a 25% late penalty. Any assignment submitted more than 24 hours past the due date will not be graded.
 
 <!-- A homework assignment will be due every Thursday at 10 PM. Each homework assignment is worth 10 points. There will be 14 graded assignments given. Homework assignments will cover content from the week they are due as well as material covered earlier in the course. At the due date, solutions will be released to aid students that have yet to complete the assignment. Homework assignments will be accepted up to two days after the original due date. -->
 
@@ -73,7 +73,7 @@ We encourage honors lab sections students to also complete the non-honors lab as
 
 ### Flash Quizzes
 
-There are two flash quizzes every week. A flash quiz is due one day after every assignment, and covers the same content as the assignment it is coupled with. Flash quizzes can be 5 to 10 minutes in duration, where you will have (on average) 15 seconds to answer each multiple-choice question.
+There are two flash quizzes every week, except for the first week (no flash quizzes) and the exam weeks (one flash quiz). A flash quiz is due a day after every assignment, and covers the same content as the assignment it is coupled with. Flash quizzes can be 5 to 10 minutes in duration, where you will have (on average) 15 seconds to answer each multiple-choice question. Flash quizzes cannot be taken after their respective due dates have passed.
 
 ### Exams
 
@@ -140,7 +140,7 @@ Final grades for students who achieve the course minimum requirements are based 
     <table>
         <thead>
             <tr>
-                <th>Points</th>
+                <th>Grade</th>
                 <th>GPA</th>
             </tr>
         </thead>
