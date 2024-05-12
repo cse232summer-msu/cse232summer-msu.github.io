@@ -163,4 +163,4 @@ You'll notice that there is no way to "Step Back" a line like there is on Python
 
 To avoid the need of having some sort of Step Back command, you should **always** think ahead on where your program's control will lead. **Set expectations** on what you believe should happen when you run a particular line or set of lines, and deduce the problematic expressions from there.
 
-Hopefully you found this guide helpful! Please don't hesitate to ask about the debugger on Piazza.
+Hopefully you found this guide helpful! Please don't hesitate to ask about the debugger on Ed Discussion.
