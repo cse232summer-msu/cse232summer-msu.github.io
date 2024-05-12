@@ -99,7 +99,7 @@ You can alternatively complete the lab assignment by 10pm of Monday the followin
 
 ## Grading
 
-The grading categories for this course and their contributions to the final grade:
+The grading categories for this course, and their contributions to the final grade:
 
 <div align="center">
     <table>
