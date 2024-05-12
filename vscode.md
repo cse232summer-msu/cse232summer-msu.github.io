@@ -17,7 +17,7 @@ Choose the tutorial that corresponds to your operating system, if wanting to use
 - [MacOS](macos)
 - [Windows](windows)
 
-These tutorials will have you setup the VSCode debugger. If you are unfamiliar with how to use an IDE debugger, [you can find a brief guide here](debugging_guide.html).
+These tutorials will have you setup the VSCode debugger. If you are unfamiliar with how to use an IDE debugger, [you can find a brief guide here](debugging).
 
 The VSCode debugger relies on a special folder in your workspace called ".vscode". The tutorials briefly explain what it does and why it's necessary. With how VSCode operates at the time of writing, a global .vscode folder for debugging configurations is not a thing, and so you may end up having to copy a .vscode folder in many different places if you want to move workspaces a lot.
 
