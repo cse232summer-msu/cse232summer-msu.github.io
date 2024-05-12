@@ -30,6 +30,8 @@ permalink: pretty
 aux_links:
   D2L:
     - 'https://d2l.msu.edu/'
+  Ed Discussion:
+    - 'https://edstem.org/'
 footer_content:
 
 # Collections for website data
