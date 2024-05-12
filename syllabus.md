@@ -255,7 +255,13 @@ The use of generative AI (e.g. ChatGPT, GitHub Copilot, Bard) is permitted on as
 
 ### Collaboration
 
-There are no group assignments in this course. Your assignments should largely be your own work. While it is encouraged to seek help if you are struggling with a specific problem in an assignment, it is still unacceptable to copy someone else's work, and claim it as your own.
+There are no group assignments in this course. Your assignments should be your own work. Plagiarism (unsourced use of other's intellectual property) is not allowed. However, citing and using others' works is generally fine (please ask if uncertain), as long as the material was not made specifically for solving the assignments in this class. The use of material or code from a student that previously took the course is an explicit instance of academic dishonesty. Intellectual collaboration with other students in the class is allowed, but each student should write (and not share) their own code. If a student submits code that they do not understand, such is also an act of academic dishonesty.
+
+<!-- While it is encouraged to seek help if you are struggling with a specific problem in an assignment, it is still unacceptable to copy someone else's work, and claim it as your own. -->
+
+__Under no circumstances should you share any part of an assignment solution with another student. Simply showing your solution to another student almost guarantees detection by the plagiarism software. Past experience shows that a student who asks to "look at" your solution will copy parts of it or pass it along to someone else who copies it.__
+
+Each assignment submission is electronically (and manually, if need be) compared to all other solutions (in this course and previous offerings) to identify similarities between solutions.
 
 <!-- On homework and especially labs, we strongly encourage you to collaborate on the assignments. Learning how to write code on your own is an important task, but equally important is learning how to read other's code and collaborate together. As such, we encourage the open discussion of homework and lab assignments on Piazza and more directly between your peers. You are welcome to share solutions, discuss potential implementations, and collectively debug each other's code. If you are inspired by other's work in your own solution (or if you just like how they solved a problem), please remember to cite your sources as described above.
 
