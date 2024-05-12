@@ -197,7 +197,7 @@ If you are unable to complete an assignment before the specified due date becaus
 
 ### Plagiarism
 
-Plagiarism (unsourced use of others' intellectual property) is not allowed. However, if you cite your sources as shown below, you are permitted to use/apply material created by your peers, strangers, and AI tools on assignments.
+Plagiarism (unsourced use of other's intellectual property) is not allowed. However, citing and using others' works is generally fine (please ask if uncertain), as long as the material was not made specifically for solving the assignments in this class.
 
 ### Examples Of Academic Misconduct
 
@@ -255,7 +255,7 @@ The use of generative AI (e.g. ChatGPT, GitHub Copilot, Bard) is permitted on as
 
 ### Collaboration
 
-There are no group assignments in this course. Your assignments should be your own work. Plagiarism (unsourced use of other's intellectual property) is not allowed. However, citing and using others' works is generally fine (please ask if uncertain), as long as the material was not made specifically for solving the assignments in this class. The use of material or code from a student that previously took the course is an explicit instance of academic dishonesty. Intellectual collaboration with other students in the class is allowed, but each student should write (and not share) their own code. If a student submits code that they do not understand, such is also an act of academic dishonesty.
+There are no group assignments in this course. Your assignments should be your own work. Intellectual collaboration with other students in the class is allowed, but each student should write (and not share) their own code. The use of material or code from a student that previously took the course is an explicit instance of academic dishonesty. If a student submits code that they do not understand, such is also an act of academic dishonesty.
 
 <!-- While it is encouraged to seek help if you are struggling with a specific problem in an assignment, it is still unacceptable to copy someone else's work, and claim it as your own. -->
 
