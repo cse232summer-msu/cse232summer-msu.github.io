@@ -3,8 +3,7 @@ layout: page
 title: Week 3
 permalink: /lectures/week3
 parent: Lectures
-description: >-
-    Lectures for week 3.
+description: Lectures for week 3.
 ---
 
 # Week 3

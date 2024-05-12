@@ -3,8 +3,7 @@ layout: page
 title: Linux Setup
 permalink: /vscode/linux
 parent: VSCode
-description: >-
-    VSCode for Linux.
+description: VSCode for Linux.
 ---
 
 # Using C++ in VSCode - Linux

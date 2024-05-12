@@ -3,8 +3,7 @@ layout: page
 title: Windows Setup
 permalink: /vscode/windows
 parent: VSCode
-description: >-
-    VSCode for Windows.
+description: VSCode for Windows.
 ---
 
 # Using C++ in VSCode - Windows

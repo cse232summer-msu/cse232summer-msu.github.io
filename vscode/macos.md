@@ -3,8 +3,7 @@ layout: page
 title: MacOS Setup
 permalink: /vscode/macos
 parent: VSCode
-description: >-
-    VSCode for MacOS.
+description: VSCode for MacOS.
 ---
 
 # Using C++ in VSCode - MacOS
