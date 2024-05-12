@@ -9,7 +9,7 @@ description: Course syllabus.
 # Syllabus
 {:.no_toc}
 
-Summer Semester, 2024
+Summer, 2024
 
 ---
 
