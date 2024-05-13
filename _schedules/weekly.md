@@ -27,26 +27,26 @@ schedule:
         start: 2:00 PM
         end: 3:00 PM
         location: Course Website
-      - name: Assignment Due
+      - name: Assignment Release
         start: 10:30 PM
         end: 11:30 PM
         location: D2L
   - name: Tuesday
     events:
-      - name: Flash Quiz Due
+      - name: Flash Quiz Release
         start: 10:30 PM
         end: 11:30 PM
         location: D2L
   - name: Wednesday
   - name: Thursday
     events:
-      - name: Assignment Due
+      - name: Assignment Release
         start: 10:30 PM
         end: 11:30 PM
         location: D2L
   - name: Friday
     events:
-      - name: Flash Quiz Due
+      - name: Flash Quiz Release
         start: 10:30 PM
         end: 11:30 PM
         location: D2L
