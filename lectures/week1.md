@@ -12,6 +12,7 @@ description: Lectures for week 1.
 
 ## Introduction
 * Reading: [Syllabus](../syllabus)
+* [Lecture slides](../assets/weel1/slides/Introduction.pdf)
 
 <div align="center">
 <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/811482/sp/81148200/embedIframeJs/uiconf_id/27551951/partner_id/811482?iframeembed=true&playerId=kaltura_player&entry_id=1_dxiloyav&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_42h31l57" width="640" height="396" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Introduction Lecture for CSE 232 (Summer 2024)"></iframe>
@@ -45,6 +46,7 @@ This is only relevant to members of the Honors College.
 ## Programs
 * Reading: Preface, Section 1.1, and 1.2
 <!-- * [Lecture slides (Programs)](https://docs.google.com/presentation/d/1Y0cwiRkIH6YMWja9vIK7uyWNka4bNSxj1JctM6SqT9k/edit?usp=sharing) -->
+* [Lecture slides](../assets/weel1/slides/Programs.pdf)
 * [hello.cpp](../assets/week1/codes/hello.cpp)
 * [print_square.cpp](../assets/week1/codes/print_square.cpp)
 
@@ -57,6 +59,7 @@ This is only relevant to members of the Honors College.
 ## Functions
 * Reading: Section 1.3
 <!-- * [Lecture slides (Functions)](https://docs.google.com/presentation/d/1WkU6yYkY3xOS8Wdz2r_QKf0oDSwx_c2A9Fu7kgiWQ0M/edit?usp=sharing) -->
+* [Lecture slides](../assets/weel1/slides/Functions.pdf)
 
 <div align="center">
 <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/811482/sp/81148200/embedIframeJs/uiconf_id/27551951/partner_id/811482?iframeembed=true&playerId=kaltura_player&entry_id=1_2trcmecf&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_cwdh35py" width="640" height="396" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="CSE 232 - Functions"></iframe>
@@ -67,6 +70,7 @@ This is only relevant to members of the Honors College.
 ## Types, Variables, and Arithmetic
 * Reading: Section 1.4
 <!-- * [Lecture slides (Types, Variables, and Arithmetic)](https://docs.google.com/presentation/d/1GUzTE3YP35jYUirrGBE2bmiA8SWEZsVtgjKaA0-BC-k/edit?usp=sharing) -->
+* [Lecture slides](../assets/weel1/slides/Types,%20Variables,%20and%20Arithmetic.pdf)
 
 <div align="center">
 <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/811482/sp/81148200/embedIframeJs/uiconf_id/27551951/partner_id/811482?iframeembed=true&playerId=kaltura_player&entry_id=1_tnd3cd1n&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_4l7v7x2l" width="640" height="396" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="CSE232 Fall 2024 Types, Variables and Arithmetic"></iframe>
@@ -77,6 +81,7 @@ This is only relevant to members of the Honors College.
 ## Scope and Const
 * Reading: Section 1.5 and Section 1.6
 <!-- * [Lecture slides (Scope and Const)](https://docs.google.com/presentation/d/1i0GHJin-5A6qbgiGL58XDTjTuW2Ci5rCF83AAYTUXGI/edit?usp=sharing) -->
+* [Lecture slides](../assets/weel1/slides/Scope%20and%20Const.pdf)
 * [scope.cpp](../assets/week1/codes/scope.cpp)
 
 <div align="center">
@@ -88,6 +93,7 @@ This is only relevant to members of the Honors College.
 ## Basic Input Output
 * Reading: None
 <!-- * [Lecture slides (Basic Input Output)](https://docs.google.com/presentation/d/1HkKhQk9mSoIrjeXfqCTe-LlQRCtybS1UD9CQiM5MnBY/edit?usp=sharing) -->
+* [Lecture slides](../assets/weel1/slides/Basic%20Input%20Output.pdf)
 * [io.cpp](../assets/week1/codes/io.cpp)
 
 <div align="center">
@@ -99,6 +105,7 @@ This is only relevant to members of the Honors College.
 ## Formatting and Navigation
 * Reading: None
 <!-- * [Lecture slides (Formatting and Navigation)](https://docs.google.com/presentation/d/1R_BmYWTE7ot1zTnt_LjtHwMz96KAZknoXR7VkKEM5_w/edit?usp=sharing) -->
+* [Lecture slides](../assets/weel1/slides/Formatting%20and%20Navigation.pdf)
 * [poor_formatting.cpp](../assets/week1/codes/poor_formatting.cpp)
 
 <div align="center">
