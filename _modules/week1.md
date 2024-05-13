@@ -5,6 +5,12 @@ title: Week 1
 May 13
 : Classes begin!
 
+May 13
+: [Week 1 Lectures Released](../lectures/week1)
+
+May 13
+: [Assignment 0 Released](https://d2l.msu.edu/d2l/le/calendar/1871117/event/4141078/detailsview)
+
 <!-- Sep 28
 : [Java & Git](#)
   : [1.1](#)
