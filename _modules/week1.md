@@ -11,6 +11,9 @@ May 13
 May 13
 : [Assignment 0 Released](https://d2l.msu.edu/d2l/le/calendar/1871117/event/4141078/detailsview)
 
+May 13
+: [Assignment 1 Released](https://d2l.msu.edu/d2l/le/calendar/1871117/event/4144467/detailsview)
+
 <!-- Sep 28
 : [Java & Git](#)
   : [1.1](#)
