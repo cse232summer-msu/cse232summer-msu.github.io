@@ -90,7 +90,7 @@ This is only relevant to members of the Honors College.
 ---
 
 ## Basic Input Output
-* Reading: None
+* Reading: Section 11.2 and Section 11.3
 <!-- * [Lecture slides (Basic Input Output)](https://docs.google.com/presentation/d/1HkKhQk9mSoIrjeXfqCTe-LlQRCtybS1UD9CQiM5MnBY/edit?usp=sharing) -->
 * Lecture Slides: [Basic Input Output](../assets/week1/slides/Basic%20Input%20Output.pdf)
 * Codes: [io.cpp](../assets/week1/codes/io.cpp)
