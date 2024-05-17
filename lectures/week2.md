@@ -51,6 +51,7 @@ description: Lectures for week 2.
 </div>
 
 ## Introduction to Vectors and Functions
+* Reading: Section 12.2
 <!-- * [Lecture slides (Introduction to Vectors and Functions)](https://docs.google.com/presentation/d/1MB0S3DpZi_pInVG00s0L5U1ZcAkM400QtdE8XraxGks/edit?usp=sharing) -->
 * Lecture Slides: [Introduction to Vectors and Functions](../assets/week2/slides/Introduction%20to%20Vectors%20and%20Functions.pdf)
 * Codes: [vectors_and_functions.cpp](../assets/week2/codes/vectors_and_functions.cpp)
