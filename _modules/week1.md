@@ -17,6 +17,9 @@ May 13
 May 14
 : [Flash Quiz 1 Released](https://d2l.msu.edu/d2l/le/calendar/1871117/event/4146025/detailsview)
 
+May 16
+: [Assignment 2 Released](https://d2l.msu.edu/d2l/le/calendar/1871117/event/4147352/detailsview)
+
 <!-- Sep 28
 : [Java & Git](#)
   : [1.1](#)
