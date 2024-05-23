@@ -1,0 +1,12 @@
+---
+title: Week 2
+---
+
+May 13
+: Classes begin!
+
+May 20
+: [Week 2 Lectures Released](../lectures/week2)
+
+May 20
+: [Assignment 2 Released](https://d2l.msu.edu/d2l/le/calendar/1871117/event/4147352/detailsview)

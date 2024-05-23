@@ -10,6 +10,10 @@ description: Lectures for week 1.
 
 ---
 
+* Flash Quiz 1 Answers: [CSE_232_Flash_Quiz_1.pdf](../assets/week1/quizzes/CSE_232_Flash_Quiz_1.pdf)
+
+---
+
 ## Introduction
 * Reading: [Syllabus](../syllabus)
 * Lecture Slides: [Introduction](../assets/week1/slides/Introduction.pdf)
