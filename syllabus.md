@@ -73,7 +73,7 @@ We encourage honors lab sections students to also complete the non-honors lab as
 
 ### Flash Quizzes
 
-There are two flash quizzes every week, except for the first week (no flash quizzes) and the exam weeks (one flash quiz). A flash quiz is due a day after every assignment before 11:59pm, and covers the same content as the assignment it is coupled with. Flash quizzes can be 5 to 10 minutes in duration, where you will have (on average) 15 seconds to answer each multiple-choice question. Flash quizzes cannot be taken after their respective due dates have passed.
+There are two flash quizzes every week, except for the first week (no flash quizzes) and the exam weeks (one flash quiz). A flash quiz is due a day after every assignment before 11:59pm, and covers the same week's content as the assignment it is coupled with. Flash quizzes are 5 minutes in duration, where you will have (on average) 30 seconds to answer each multiple-choice question. Flash quizzes can only be taken after submitting the assignments that are due before them, and cannot be taken after their respective due dates have passed.
 
 ### Exams
 
