@@ -14,6 +14,11 @@ description: Lectures for week 1.
 
 ---
 
+* Practice Quiz 1 (Spring 2024): [Week1_Sample_Questions_1.pdf](../assets/week1/quizzes/Week1_Sample_Questions_1.pdf) [Week1_Sample_Key_1.pdf](../assets/week1/quizzes/Week1_Sample_Questions_1.pdf)
+* Practice Quiz 2 (Spring 2024): [Week1_Sample_Questions_2.pdf](../assets/week1/quizzes/Week1_Sample_Questions_2.pdf) [Week1_Sample_Key_2.pdf](../assets/week1/quizzes/Week1_Sample_Questions_2.pdf)
+
+---
+
 ## Introduction
 * Reading: [Syllabus](../syllabus)
 * Lecture Slides: [Introduction](../assets/week1/slides/Introduction.pdf)
