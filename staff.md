@@ -1,12 +1,14 @@
 ---
 layout: page
 title: Staff
+has_children: false
+nav_order: 9
 description: A listing of all the course staff members.
 ---
 
 # Staff
 
-Contact information for the course staff.
+<!-- Contact information for the course staff. -->
 
 ---
 
