@@ -53,9 +53,17 @@ June 27, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 
 ## Content
 
+All exams will contain both multiple-choice questions, and short-answer questions. Some sample MCQs are provided to you on their respective [Lecture pages](Lectures).
+
 All exams are comprehensive, and include material from lectures, assignments, quizzes, and the textbook. Each exam will cover material up to and including the week prior. For instance, Exam 1 will cover Week 01 and Week 02.
 
 ---
+
+## Cheatsheets and Exam Aids
+
+The exam is open note, meaning that you can bring whatever material you want, so long as it's not electronic. Printouts of reference material, textbooks, notes, the sample exams and keys, etc. are all fine to bring. Please ensure that you also bring the textbook.
+
+I recommend bringing reference material on the topics that are hard to remember. For the Final Exam, you might consider the useful functions in the STL algorithm library and the many data structures (`std::vector`, `std::string`, `std::map`, `std::set`, etc.).
 
 ## Exam Setup
 
@@ -73,11 +81,7 @@ Exam questions will refer directly to examples and statements from the required 
 
 Associated with each week, sample exam questions are provided with questions broadly similar to the ones that will appear on the actual exam. The best way to prepare is to solve these sample exams, on your own, with the material you intend to bring to the actual exam. If you can't solve a question, come to help room, or ask on Piazza. We recommend that only after solving the sample questions, should you look at the solutions.
 
-## Cheatsheets and Exam Aids
 
-The exam is open note, meaning that you can bring whatever material you want, so long as it's not electronic. Printouts of reference material, textbooks, notes, the sample exams and keys, etc. are all fine to bring. Please ensure that you also bring the textbook.
-
-I recommend bringing reference material on the topics that are hard to remember. For the Final Exam, you might consider the useful functions in the STL algorithm library and the many data structures (`std::vector`, `std::string`, `std::map`, `std::set`, etc.).
 
 
 ## Multiple Choice Exam Details
