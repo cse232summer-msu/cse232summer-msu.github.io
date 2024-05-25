@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Schedule
-description: Weekly schedule schedule.
+nav_order: 7
+description: Weekly release schedule.
 ---
 
 # Weekly Release Schedule

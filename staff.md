@@ -44,7 +44,7 @@ Contact information for the course staff.
 {% endfor %}
 {% endif %}
 
----
+<!-- ---
 
 ## Help Room Schedule and Hours
 
@@ -58,5 +58,5 @@ Sunday | No help room
 
 [Zoom link](https://msu.zoom.us/j/97204068191)
 
-Meeting ID: 972 0406 8191
-Passcode: 250641
+* Meeting ID: 972 0406 8191
+* Passcode: 250641 -->
