@@ -51,15 +51,19 @@ June 27, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 
 ---
 
+## Content
+
+All exams are comprehensive, and include material from lectures, assignments, quizzes, and the textbook. Each exam will cover material up to and including the week prior. For instance, Exam 1 will cover Week 01 and Week 02.
+
+---
+
 ## Exam Setup
 
 <div align="center">
     <img src="../assets/images/exam_view.jpg">
 </div>
 
-## Content
 
-All exams are comprehensive. This includes material from lectures, labs, and homework. Each exam will cover material up to and including the week prior (e.g. Exam 1 will cover Weeks 00-04).
 
 ### Required Textbook
 
