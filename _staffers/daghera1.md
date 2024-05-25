@@ -1,7 +1,7 @@
 ---
-name: Seyed Ali (Ali) Eshtehardian
-role: Teaching Assistant
-email: eshtehar@msu.edu
+name: Andrew Dagher
+role: Undergraduate Learning Assistant
+email: daghera1@msu.edu
 # website: https://kevinl.info
 # photo: kevin.jpg
 # meta:

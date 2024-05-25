@@ -1,7 +1,7 @@
 ---
-name: Seyed Ali (Ali) Eshtehardian
-role: Teaching Assistant
-email: eshtehar@msu.edu
+name: Jasen Van Acker
+role: Undergraduate Learning Assistant
+email: vanack37@msu.edu
 # website: https://kevinl.info
 # photo: kevin.jpg
 # meta:
