@@ -53,7 +53,7 @@ June 27, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 
 ## Content
 
-All exams will contain both multiple-choice questions, and short-answer questions. Some sample MCQs from Spring 2024 are provided to you on their respective [lecture](../lectures/) pages. Short Q&As will mostly involve coding problems, where you may either be asked to write a small program, or generate outputs for a given program on a certain input.
+All exams will contain both multiple-choice questions, and short-answer questions. Some sample MCQs from Spring 2024 are provided to you on their respective [lecture](../lectures/) pages. Short Q&As will mostly involve coding problems, where you may either be asked to solve a small coding problem, or generate outputs for a given code on certain inputs.
 
 All exams are comprehensive, and include material from lectures, assignments, quizzes, and the textbook. Each exam will cover material up to and including the week prior. For instance, Exam 1 will cover Week 01 and Week 02.
 
