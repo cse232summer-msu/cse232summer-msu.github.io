@@ -9,7 +9,7 @@ description: Help room schedule and Zoom information.
 # Help Room
 {:.no_toc}
 
-Weekly help room schedule and Zoom information.
+<!-- Weekly help room schedule and Zoom information. -->
 
 ---
 
