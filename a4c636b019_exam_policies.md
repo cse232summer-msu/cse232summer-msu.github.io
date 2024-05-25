@@ -47,8 +47,15 @@ June 27, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 - A fully charged smartphone or a tablet capable of running Zoom with a functional camera that can show your workspace during exams.
 - Access to a stable internet connection from both devices mentioned above.
 - Your non-electronic notes.
+- Your MSU ID card.
 
 ---
+
+## Exam Setup
+
+<div align="center">
+    <img src="../assets/images/exam_view.jpg">
+</div>
 
 ## Content
 
