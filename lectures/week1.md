@@ -14,7 +14,7 @@ Flash Quiz 1 Answers: [CSE_232_Flash_Quiz_1.pdf](../assets/week1/quizzes/CSE_232
 
 ---
 
-Practice Quiz 1 (Spring 2024): [Week1_Sample_Questions_1.pdf](../assets/week1/quizzes/Week1_Sample_Questions_1.pdf) | [Week1_Sample_Key_1.pdf](../assets/week1/quizzes/Week1_Sample_Questions_1.pdf)
+Practice Quiz 1 (Spring 2024): [Week1_Sample_Questions_1.pdf](../assets/week1/quizzes/Week1_Sample_Questions_1.pdf) | [Week1_Sample_Key_1.pdf](../assets/week1/quizzes/Week1_Sample_Key_1.pdf)
 
 ---
 
