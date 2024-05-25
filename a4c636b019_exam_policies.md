@@ -53,7 +53,7 @@ June 27, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 
 ## Content
 
-All exams will contain both multiple-choice questions, and short-answer questions. Some sample MCQs are provided to you on their respective [Lecture pages](Lectures).
+All exams will contain both multiple-choice questions, and short-answer questions. Some sample MCQs are provided to you on their respective [Lecture pages](..\Lectures).
 
 All exams are comprehensive, and include material from lectures, assignments, quizzes, and the textbook. Each exam will cover material up to and including the week prior. For instance, Exam 1 will cover Week 01 and Week 02.
 
