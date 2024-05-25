@@ -16,15 +16,32 @@ description: Exam requirements and policies
 
 May 30, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 
+[Zoom link available the day before the exam](a4c636b019_exam_policies)
+
+* Meeting ID: \*\*\* \*\*\*\* \*\*\*
+* Passcode: \*\*\*\*\*
+
 ### Exam 2
 
 June 13, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
+
+[Zoom link available the day before the exam](a4c636b019_exam_policies)
+
+* Meeting ID: \*\*\* \*\*\*\* \*\*\*
+* Passcode: \*\*\*\*\*
 
 ### Final Exam
 
 June 27, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 
+[Zoom link available the day before the exam](a4c636b019_exam_policies)
+
+* Meeting ID: \*\*\* \*\*\*\* \*\*\*
+* Passcode: \*\*\*\*\*
+
 ---
+
+
 
 # Exam Policies
 
