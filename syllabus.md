@@ -39,7 +39,7 @@ The focus of the course will be twofold:
     - [Tour of C++, 3rd Ed. by Bjarne Stroustrup](https://www.google.com/search?q=A+Tour+of+C%2B%2B%2C+3rd+Edition) (Required)
     - [C++ Primer, 5th Ed. by Lippman, Lajoie, Moo.](https://www.google.com/search?q=C%2B%2B+Primer%2C+5th+Edition) (Supplemental)
     <!-- - [Introduction to C++, 1st Ed. by George S. Tselikis](https://www.google.com/search?q=Introduction+to+C%2B%2B%2C+1st+Edition) (Supplemental) -->
-- A desktop or laptop computer capable of running Zoom and screen-sharing.
+- A desktop or a laptop computer capable of running Zoom and screen-sharing.
 - A phone or a tablet capable of running Zoom with a camera that can show your workspace while taking exams.
 - A stable internet connection for streaming video through Zoom, and for watching lecture videos.
 
