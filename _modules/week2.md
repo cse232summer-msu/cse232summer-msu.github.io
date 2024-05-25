@@ -7,3 +7,6 @@ May 20
 
 May 20
 : [Assignment 3 Released](https://d2l.msu.edu/d2l/le/calendar/1871117/event/4149100/detailsview)
+
+May 22
+: [Flash Quiz 3 Released](https://d2l.msu.edu/d2l/le/calendar/1871117/event/4149001/detailsview)
