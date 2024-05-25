@@ -71,7 +71,7 @@ All exams are open note. Which means, you are permitted to use any non-electroni
 
 ## Makeup Exams
 
-As this is an accelerated course, it will not be possible for us to provide any makeup exams. If you miss an exam due to documented illness or emergency, please send me an email with detailing the circumstances around why you did not attend the scheduled exam, along with all relevant offical documents. If your reasons are acceptable, it may be possible to schedule a one-on-one oram exam over Zoom, where your mastery of the material will be tested.
+As this is an accelerated course, it will not be possible for us to provide any makeup exams. If you miss an exam due to documented illness or emergency, please send me an email detailing the circumstances around why you did not attend the scheduled exam, along with all relevant official documents. If your reasons are acceptable, it may be possible to schedule a one-on-one oral exam over Zoom, where your mastery of the material will be tested.
 
 ---
 
@@ -98,7 +98,7 @@ As this is an accelerated course, it will not be possible for us to provide any 
 
 - Keep the speaker volume of your smartphone or tablet turned up (but the microphone muted) during the exam. You need to be able to hear the course staff if they call on you, or make a general announcement.
 - Under no circumstances should your video feed be turned off. Low battery is not an acceptable excuse. If your video is turned off, and you do not respond to us when called on to fix it, your exam may be forfeited.
-- The course staff holds the right to suspend your exam, if you are suspected of cheating. In which case, an alternate eximation method will be determined.
+- The course staff holds the right to suspend your exam, if you are suspected of cheating. In which case, an alternate examination method will be determined.
 
 ### After Exam
 
