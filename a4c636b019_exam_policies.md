@@ -16,7 +16,7 @@ description: Exam requirements and policies
 
 May 30, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 
-[Zoom link available the day before the exam](a4c636b019_exam_policies)
+[Zoom link available the day before the exam]()
 
 * Meeting ID: \*\*\* \*\*\*\* \*\*\*
 * Passcode: \*\*\*\*\*
@@ -25,7 +25,7 @@ May 30, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 
 June 13, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 
-[Zoom link available the day before the exam](a4c636b019_exam_policies)
+[Zoom link available the day before the exam]()
 
 * Meeting ID: \*\*\* \*\*\*\* \*\*\*
 * Passcode: \*\*\*\*\*
@@ -34,18 +34,12 @@ June 13, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 
 June 27, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 
-[Zoom link available the day before the exam](a4c636b019_exam_policies)
+[Zoom link available the day before the exam]()
 
 * Meeting ID: \*\*\* \*\*\*\* \*\*\*
 * Passcode: \*\*\*\*\*
 
 ---
-
-
-
-# Exam Policies
-
-This course has 5 exams (3 multiple choice exams and 2 coding lab practical exams). Each exam is 90 minutes in duration (from timer start to timer end). ID checks will be performed, so please bring your student ID (or some other form of photo ID).
 
 ## Content
 
