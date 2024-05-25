@@ -12,6 +12,8 @@ description: Exam requirements and policies
 
 ## Exam Schedule
 
+All times listed here are based on Eastern Standard Time. If you are in a different time zone, it is your responsibility to convert these times to your local time.
+
 ### Exam 1
 
 May 30, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
@@ -39,7 +41,7 @@ June 27, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 * Meeting ID: \*\*\* \*\*\*\* \*\*\*
 * Passcode: \*\*\*\*\*
 
----
+<!-- ---
 
 ## Pre-Exam Checklist
 
@@ -48,12 +50,12 @@ June 27, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 - Access to a stable internet connection from both devices mentioned above.
 - Your non-electronic notes.
 - Your MSU ID card.
-
+ -->
 ---
 
 ## Content
 
-All exams will contain both multiple-choice questions, and short-answer questions. Some sample MCQs from Spring 2024 are provided to you on their respective [lecture](../lectures/) pages. Short Q&As will mostly involve coding problems, where you may either be asked to solve a small coding problem, or generate outputs for a given code on certain inputs.
+All exams will be on D2L, and will contain both multiple-choice questions, and short-answer questions. Some sample MCQs from Spring 2024 are provided to you on their respective [lecture](../lectures/) pages. Short Q&As will mostly involve coding problems, where you may either be asked to solve a small coding problem, or generate outputs for a given code on certain inputs.
 
 All exams are comprehensive, and include material from lectures, assignments, quizzes, and the textbook. Each exam will cover material up to and including the week prior. For instance, Exam 1 will cover Week 01 and Week 02.
 
@@ -67,11 +69,42 @@ All exams are open note. Which means, you are permitted to use any non-electroni
 
 ---
 
-## Exam Setup
+## Makeup Exams
+
+As this is an accelerated course, it will not be possible for us to provide any makeup exams. If you miss an exam due to documented illness or emergency, please send me an email with detailing the circumstances around why you did not attend the scheduled exam, along with all relevant offical documents. If your reasons are acceptable, it may be possible to schedule a one-on-one oram exam over Zoom, where your mastery of the material will be tested.
+
+---
+
+## Exam Procedure
 
 <div align="center">
     <img src="../assets/images/exam_view.jpg">
 </div>
+
+### Before Exam
+
+- Be sure to you have the following things ready:
+	- A desktop or a fully charged laptop computer capable of running Zoom and screen sharing with a functional microphone and a webcam.
+	- A fully charged smartphone or a tablet capable of running Zoom with a functional camera that can show your workspace during exams.
+	- Access to a stable internet connection from both devices mentioned above.
+	- Your non-electronic notes.
+	- Your MSU student ID card.
+- Join Zoom using your smartphone or tablet at least 15 minutes early. If you arrive late, you will not be given any additional time.
+- Be sure your microphone is muted, and your video is turned on. Position your smartphone or tablet in a way so that your face, your desk, and your screen are clearly visible through the camera. See the above image for reference. A good idea is to have this setup ready beforehand, and testing it in your own personal Zoom room.
+- After joining Zoom, you will be moved into a breakout room, where a course staff will check your MSU student ID card.
+- At 6:00pm (EST), a course staff will broadcast a passkey, using which, you will be able to access the exam on D2L.
+
+### During Exam
+
+- Keep the speaker volume of your smartphone or tablet turned up (but the microphone muted) during the exam. You need to be able to hear the course staff if they call on you, or make a general announcement.
+- Under no circumstances should your video feed be turned off. Low battery is not an acceptable excuse. If your video is turned off, and you do not respond to us when called on to fix it, your exam may be forfeited.
+- The course staff holds the right to suspend your exam, if you are suspected of cheating. In which case, an alternate eximation method will be determined.
+
+### After Exam
+
+- If you finish your exam early, please do not leave or turn off your camera. You must wait until 8:00pm (EST) before leaving.
+
+---
 
 
 <!-- ### Required Textbook
@@ -91,9 +124,7 @@ The exam location and time(s) will be announced on Piazza. The exams are conduct
 
 Two of the lab sessions will be dedicated to lab practicals. You will be given an in-class Codio assignment in lieu of the regular lab assignment. Please bring your computer (recommended fully charged as there are limited outlets) to the lab you are enrolled in. The exam's Codio page is the only application that you're allowed to have open (no IDEs). You are welcome to use any non-electronic resource during the exam. This includes textbooks, printed lecture slides, notes, example solutions to homework (including instructor solutions), and birthday cards. You may **not** use any online reference material or any other electronic resource. -->
 
-## Makeup Exams
 
-As this is an accelerated course, it will not be possible for us to provide any makeup exams. If you miss an exam due to documented illness or emergency, please send me an email with detailing the circumstances around why you did not attend the scheduled exam, along with all relevant offical documents. If your reasons are acceptable, it may be possible to schedule a one-on-one oram exam over Zoom, where your mastery of the material will be tested.
 
 ## Accommodation
 
