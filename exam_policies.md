@@ -1,9 +1,9 @@
----
+<!-- ---
 title: Exam Policies
 ---
 
 # Exam Offerings
-Please see Ed for details.
+Please see Ed for details. -->
 
 <!-- ## Coding Exams
 Coding exams (lab practicals) are conducted in your assigned in-person lab.
