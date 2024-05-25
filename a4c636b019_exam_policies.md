@@ -8,28 +8,23 @@ description: Exam requirements and policies
 
 # Exam Policies
 
-## Coding Exams
-Coding exams (lab practicals) are conducted in your assigned in-person lab.
+---
 
-## Multiple Choice Exams
+## Exam Schedule
 
-### Midterm Exam 1
-There are two offerings of the midterm 1 (both in Wells Hall B115):
+### Exam 1
 
-* 2024-02-16, Friday @ 6:30pm
-* 2024-02-17, Saturday @ Noon
+May 30, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 
-### Midterm Exam 2
-There are two offerings of the midterm 2 (both in Wells Hall B115):
+### Exam 2
 
-* 2024-03-19, Tuesday @ 8am
-* 2024-03-19, Tuesday @ 6:30pm
+June 13, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 
 ### Final Exam
-There are two offerings of the final exam (both in Wells Hall B115):
-* 2024-04-25, Thursday @ 3pm
-* 2024-04-26, Friday @ 12:30pm
 
+June 27, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
+
+---
 
 # Exam Policies
 
