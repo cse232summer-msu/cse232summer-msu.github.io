@@ -1,10 +1,10 @@
-<!-- ---
+---
 layout: page
 title: Exam Policies
 has_children: false
-nav_order: 10
-description: Exam requirements and policies
---- -->
+nav_order: 9
+description: Exam policies and other exam-related information.
+---
 
 # Exam Policies
 
