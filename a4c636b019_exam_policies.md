@@ -83,22 +83,24 @@ As this is an accelerated course, it will not be possible for us to provide any 
 
 ### Before Exam
 
-- Be sure to you have the following things ready:
-	- A desktop or a fully charged laptop computer capable of running Zoom and screen sharing with a functional microphone and a webcam.
-	- A fully charged smartphone or a tablet capable of running Zoom with a functional camera that can show your workspace during exams.
+- Be sure you have the following items ready:
+	- A desktop or a fully charged (or plugged in) laptop computer capable of running Zoom and screen sharing with a functional microphone and a webcam.
+	- A fully charged (or plugged in) smartphone or a tablet capable of running Zoom with a functional camera that can show your workspace during exams.
 	- Access to a stable internet connection from both devices mentioned above.
 	- Your non-electronic notes.
 	- Your MSU student ID card.
+- Be sure to use the restroom before the exam, if you need to.
 - Join Zoom using your smartphone or tablet at least 15 minutes early. If you arrive late, you will not be given any additional time.
-- Be sure your microphone is muted, and your video is turned on. Position your smartphone or tablet in a way so that your face, your desk, and your screen are clearly visible through the camera. See the above image for reference. A good idea is to have this setup ready beforehand, and testing it in your own personal Zoom room.
+- Be sure your microphone is muted, and your video is turned on. Position your smartphone or tablet in a way so that your face, your desk, and your screen are clearly visible. See the above image for reference. A good idea is to have this setup ready and tested (in your own personal Zoom room) beforehand.
 - After joining Zoom, you will be moved into a breakout room, where a course staff will check your MSU student ID card.
 - At 6:00pm (EST), a course staff will broadcast a passkey, using which, you will be able to access the exam on D2L.
 
 ### During Exam
 
 - Keep the speaker volume of your smartphone or tablet turned up (but the microphone muted) during the exam. You need to be able to hear the course staff if they call on you, or make a general announcement.
-- Under no circumstances should your video feed be turned off. Low battery is not an acceptable excuse. If your video is turned off, and you do not respond to us when called on to fix it, your exam may be forfeited.
-- The course staff holds the right to suspend your exam, if you are suspected of cheating. In which case, an alternate examination method will be determined.
+- Under no circumstances should you leave your desk during the exam. If you feel there is a valid reason for which you are compelled to leave your desk, you must first draw the attention of the course staff assigned to your breakout room (without turning on your microphone). You if you leave without informing a course staff, your exam may be forfeited, and you will receive a zero.
+- Under no circumstances should your video feed be turned off. Low battery is not an acceptable excuse. If your video is turned off, and you do not respond to us when called on to fix it, your exam may be forfeited, and you will receive a zero.
+- The course staff holds the right to suspend your exam, if you are suspected of cheating.
 
 ### After Exam
 
