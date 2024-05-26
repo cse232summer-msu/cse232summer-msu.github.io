@@ -88,7 +88,7 @@ As this is an accelerated course, it will not be possible for us to provide any 
 	- A fully charged (or plugged in) smartphone or a tablet capable of running Zoom with a functional camera that can show your workspace during exams.
 	- Access to a stable internet connection from both devices mentioned above.
 	- Your non-electronic notes.
-	- Your MSU student ID card.
+	- Your MSU student ID card (or some other valid identification card if you are not an MSU student).
 - Be sure to use the restroom before the exam, if you need to.
 - Join Zoom using your smartphone or tablet at least 15 minutes early. If you arrive late, you will not be given any additional time.
 - Be sure your microphone is muted, and your video is turned on. Position your smartphone or tablet in a way so that your face, your desk, and your screen are clearly visible. See the above image for reference. A good idea is to have this setup ready and tested (in your own personal Zoom room) beforehand.
