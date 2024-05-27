@@ -23,7 +23,7 @@ Friday | 6:00pm to 8:00pm (EST)
 Saturday | No help room
 Sunday | No help room
 
-Help rooms are not offered during weekends and public holidays.
+Help rooms are not offered during weekends or public holidays.
 
 ---
 
