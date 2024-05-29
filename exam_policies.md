@@ -18,7 +18,7 @@ All times listed here are based on Eastern Standard Time. If you are in a differ
 
 May 30, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 
-[Zoom link available the day before the exam]()
+[Zoom link available the day of the exam]()
 
 * Meeting ID: \*\*\* \*\*\*\* \*\*\*
 * Passcode: \*\*\*\*\*
@@ -27,7 +27,7 @@ May 30, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 
 June 13, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 
-[Zoom link available the day before the exam]()
+[Zoom link available the day of the exam]()
 
 * Meeting ID: \*\*\* \*\*\*\* \*\*\*
 * Passcode: \*\*\*\*\*
@@ -36,7 +36,7 @@ June 13, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 
 June 27, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 
-[Zoom link available the day before the exam]()
+[Zoom link available the day of the exam]()
 
 * Meeting ID: \*\*\* \*\*\*\* \*\*\*
 * Passcode: \*\*\*\*\*
