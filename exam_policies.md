@@ -92,7 +92,7 @@ As this is an accelerated course, it will not be possible for us to provide any 
 - Be sure to use the restroom before the exam, if you need to.
 - Join Zoom using your smartphone or tablet at least 15 minutes early. If you arrive late, you will not be given any additional time.
 - Be sure your microphone is muted, and your video is turned on. Position your smartphone or tablet in a way so that your face, your desk, and your screen are clearly visible. See the above image for reference. A good idea is to have this setup ready and tested (in your own personal Zoom room) beforehand.
-- After joining Zoom, you will be moved into a breakout room, where a course staff will check your MSU student ID card.
+- After joining Zoom, you will be moved into a breakout room, where a course staff will check your MSU student ID card. **You will not be allowed to take the exam without a valid ID card.**
 - At 6:00pm (EST), a course staff will broadcast a passkey, using which you will be able to access the exam on D2L.
 
 ### During Exam
