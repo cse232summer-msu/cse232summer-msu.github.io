@@ -71,7 +71,7 @@ All exams are open note. Which means, you are permitted to use any non-electroni
 
 ## Makeup Exams
 
-As this is an accelerated course, it will not be possible for us to provide any makeup exams. If you miss an exam due to documented illness or emergency, please send me an email detailing the circumstances around why you did not attend the scheduled exam, along with all relevant official documents. If your reasons are acceptable, it may be possible to schedule a one-on-one oral exam over Zoom, where your mastery of the material will be tested.
+As this is an accelerated course, it will not be possible for us to provide any makeup exams. If you miss the final exam due to documented illness or emergency, please send me an email detailing the circumstances around why you did not attend the scheduled exam, along with all relevant official documents. If your reasons are acceptable, it may be possible to schedule a one-on-one oral exam over Zoom, where your mastery of the material will be tested.
 
 ---
 
