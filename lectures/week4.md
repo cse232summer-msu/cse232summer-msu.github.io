@@ -14,14 +14,8 @@ description: Lectures for week 4.
 * Reading: Section 5.1 through 5.2.1
 <!-- * [Lecture slides (Classes and Concrete Types)](https://docs.google.com/presentation/d/1-g1PRiGVaAJ6tMu-itDxnhuKdWQ44QWYsEGObyXsVzo/edit?usp=sharing) -->
 * Lecture Slides: [Classes and Concrete Types](../assets/week4/slides/Classes%20and%20Concrete%20Types.pdf)
-<!-- * Separate Function operator
-  - [main.cpp](week07/separate_function/main.cpp)
-  - [complex.h](week07/separate_function/complex.h)
-  - [complex.cpp](week07/separate_function/complex.cpp)
-* Member Function operator
-  - [main.cpp](week07/member_function/main.cpp)
-  - [complex.h](week07/member_function/complex.h)
-  - [complex.cpp](week07/member_function/complex.cpp) -->
+* Codes (Separate Function): [main.cpp](../assets/week4/codes/sf/main.cpp), [complex.h](../assets/week4/codes/sf/complex.h), [complex.cpp](../assets/week4/codes/sf/complex.cpp)
+* Codes (Member Function): [main.cpp](../assets/week4/codes/mf/main.cpp), [complex.h](../assets/week4/codes/mf/complex.h), [complex.cpp](../assets/week4/codes/mf/complex.cpp)
 
 <div align="center">
 <iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/811482/sp/81148200/embedIframeJs/uiconf_id/27551951/partner_id/811482?iframeembed=true&playerId=kaltura_player&entry_id=1_hhj4jdcj&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_51v8cmvo" width="640" height="396" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="CSE 232 - Classes and Concrete Types"></iframe>
