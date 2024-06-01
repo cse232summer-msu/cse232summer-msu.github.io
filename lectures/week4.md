@@ -40,7 +40,7 @@ description: Lectures for week 4.
 </div>
 
 ## Compiler Options
-* Reading: No reading
+* Reading: None
 <!-- * [Lecture slides (Compiler Options)](https://docs.google.com/presentation/d/1b9rMbU3gb_wY9kKhPMTbaEdp1Xh2s1Fon1DvLUOqAAY/edit?usp=sharing) -->
 <!-- * [gcc Docs](https://gcc.gnu.org/onlinedocs/gcc/Invoking-GCC.html) -->
 * Lecture Slides: [Compiler Options](../assets/week4/slides/Compiler%20Options.pdf)
@@ -68,7 +68,7 @@ description: Lectures for week 4.
 </div>
 
 ## Version Control
-* Reading: No Reading
+* Reading: None
 <!-- * [Lecture slides (Version Control)](https://docs.google.com/presentation/d/1tezuxuUY9OETdDqb0efu5iTZfC9UbApYgxVoAT9zZ_k/edit?usp=sharing) -->
 * Lecture Slides: [Version Control](../assets/week4/slides/Version%20Control.pdf)
 
