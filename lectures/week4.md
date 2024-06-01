@@ -8,8 +8,6 @@ description: Lectures for week 4.
 
 # Week 4
 
-Lectures will be available at the beginning of week 4.
-
 ---
 
 ## Classes and Concrete Types
