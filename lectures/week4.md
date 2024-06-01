@@ -14,12 +14,12 @@ Lectures will be available at the beginning of week 4.
 
 ## Classes and Concrete Types
 * Reading: Section 5.1 through 5.2.1
-<!-- * [Lecture slides (Classes and Concrete Types)](https://docs.google.com/presentation/d/1-g1PRiGVaAJ6tMu-itDxnhuKdWQ44QWYsEGObyXsVzo/edit?usp=sharing)
-* Separate Function operator<
+<!-- * [Lecture slides (Classes and Concrete Types)](https://docs.google.com/presentation/d/1-g1PRiGVaAJ6tMu-itDxnhuKdWQ44QWYsEGObyXsVzo/edit?usp=sharing) -->
+<!-- * Separate Function operator
   - [main.cpp](week07/separate_function/main.cpp)
   - [complex.h](week07/separate_function/complex.h)
   - [complex.cpp](week07/separate_function/complex.cpp)
-* Member Function operator<
+* Member Function operator
   - [main.cpp](week07/member_function/main.cpp)
   - [complex.h](week07/member_function/complex.h)
   - [complex.cpp](week07/member_function/complex.cpp) -->
