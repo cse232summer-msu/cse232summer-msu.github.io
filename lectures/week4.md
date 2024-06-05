@@ -10,8 +10,8 @@ description: Lectures for week 4.
 
 ---
 
-Practice Quiz 1 (Spring 2024): [Week4_Sample_Questions_1.pdf](../assets/week4/quizzes/Week4_Sample_Questions_1.pdf) | [Week4_Sample_Key_1.pdf](../assets/week4/quizzes/Week3_Sample_Key_1.pdf)
-Practice Quiz 2 (Spring 2024): [Week4_Sample_Questions_2.pdf](../assets/week4/quizzes/Week4_Sample_Questions_2.pdf) | [Week4_Sample_Key_2.pdf](../assets/week4/quizzes/Week3_Sample_Key_2.pdf)
+Practice Quiz 1 (Spring 2024): [Week4_Sample_Questions_1.pdf](../assets/week4/quizzes/Week4_Sample_Questions_1.pdf) | [Week4_Sample_Key_1.pdf](../assets/week4/quizzes/Week4_Sample_Key_1.pdf)
+Practice Quiz 2 (Spring 2024): [Week4_Sample_Questions_2.pdf](../assets/week4/quizzes/Week4_Sample_Questions_2.pdf) | [Week4_Sample_Key_2.pdf](../assets/week4/quizzes/Week4_Sample_Key_2.pdf)
 
 ---
 
