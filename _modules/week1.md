@@ -3,7 +3,7 @@ title: Week 1
 ---
 
 May 13
-: Classes begin!
+: [Classes begin!](../syllabus)
 
 May 13
 : [Week 1 Lectures Released](../lectures/week1)
