@@ -10,6 +10,11 @@ description: Lectures for week 2.
 
 ---
 
+Exam 1 MCQ Answers: [CSE_232_Exam_1_MCQ.pdf](../assets/week2/quizzes/CSE_232_Exam_1_MCQ.pdf) |
+Exam 1 SQ Answers: [CSE_232_Exam_1_SQ.pdf](../assets/week2/quizzes/CSE_232_Exam_1_SQ.pdf) |
+
+---
+
 Flash Quiz 2 Answers: [CSE_232_Flash_Quiz_2.pdf](../assets/week2/quizzes/CSE_232_Flash_Quiz_2.pdf) |
 Flash Quiz 3 Answers: [CSE_232_Flash_Quiz_3.pdf](../assets/week2/quizzes/CSE_232_Flash_Quiz_3.pdf) |
 
