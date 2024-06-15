@@ -13,6 +13,7 @@ description: Lectures for week 6.
 ## Algorithms
 * Reading: Section 13.1 through 13.5
 <!-- * [Lecture slides (Algorithms)](https://docs.google.com/presentation/d/1v-s_qkI3ttwOIgvIA9aZ2_5ulvhqEzQS31B5AQ4y-28/edit?usp=sharing) -->
+* Lecture Slides: [Algorithms](../assets/week6/slides/Algorithms.pdf)
 <!-- * [pointer_iterator.cpp](week11/pointer_iterator.cpp) -->
 <!-- * [sort_example.cpp](week11/sort_example.cpp) -->
 
@@ -23,9 +24,7 @@ description: Lectures for week 6.
 ## Optional Third-Party Algorithm Overview
 
 <!-- The following videos aren't required viewing, but are strongly encouraged so that you are comfortable using algorithms on assignments and exams. -->
-
-<!-- Cheatsheets: <https://hackingcpp.com/cpp/cheat_sheets.html> -->
-
+* Lecture Slides: [Cheatsheets](https://hackingcpp.com/cpp/cheat_sheets.html)
 <!-- But no amount of cheatsheets or videos will replace actually practicing the application of these functions. -->
 
 <div align="center">
@@ -40,6 +39,7 @@ description: Lectures for week 6.
 ## Numerical Algorithms
 * Reading: Section 17.1 through 17.4
 <!-- * [Lecture slides (Numerical Algorithms)](https://docs.google.com/presentation/d/1UA0xUIpXod4BdwO3XTDHZUo4MXZwEbbAEmhzANRFtc0/edit?usp=sharing) -->
+* Lecture Slides: [Numerical Algorithms](../assets/week6/slides/Numerical%20Algorithms.pdf)
 <!-- * [accumulate.cpp](week12/accumulate.cpp) -->
 
 <div align="center">
@@ -50,6 +50,7 @@ description: Lectures for week 6.
 ## Random & Numbers
 * Reading: Section 17.5 through 17.9
 <!-- * [Lecture slides (Random Numbers)](https://docs.google.com/presentation/d/1D7g-X9V8Rdns9vSrP_h3KiJkE2T6SX7HHQPR0AjAud0/edit?usp=sharing) -->
+* Lecture Slides: [Random Numbers](../assets/week6/slides/Random%20Numbers.pdf)
 <!-- * [random_example.cpp](week12/random_example.cpp) -->
 <!-- * [using_std_array.cpp](week12/using_std_array.cpp) -->
 
@@ -60,6 +61,7 @@ description: Lectures for week 6.
 ## Recursion
 * Reading: None
 <!-- * [Lecture slides (Recursion)](https://docs.google.com/presentation/d/1S7NpChvkgIsxPV2YlEz8xG-FEDf3A0453NJvLYBrgrc/edit?usp=sharing) -->
+* Lecture Slides: [Recursion](../assets/week6/slides/Recursion.pdf)
 <!-- * [recursive_min.cpp](week13/recursive_min.cpp) -->
 <!-- * [permute.cpp](week13/permute.cpp) -->
 
