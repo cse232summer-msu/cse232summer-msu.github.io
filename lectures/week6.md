@@ -48,7 +48,7 @@ description: Lectures for week 6.
 ## Random & Numbers
 * Reading: Section 17.5 through 17.9
 <!-- * [Lecture slides (Random Numbers)](https://docs.google.com/presentation/d/1D7g-X9V8Rdns9vSrP_h3KiJkE2T6SX7HHQPR0AjAud0/edit?usp=sharing) -->
-* Lecture Slides: [Random Numbers](../assets/week6/slides/Random%20Numbers.pdf)
+* Lecture Slides: [Random & Numbers](../assets/week6/slides/Random%20&%20Numbers.pdf)
 * Codes: [random_example.cpp](../assets/week6/codes/random_example.cpp), [using_std_array.cpp](../assets/week6/codes/using_std_array.cpp)
 
 <div align="center">
