@@ -10,6 +10,12 @@ description: Lectures for week 6.
 
 ---
 
+Practice Quiz 1 (Spring 2024): [Week6_Sample_Questions_1.pdf](../assets/week6/quizzes/Week6_Sample_Questions_1.pdf) | [Week6_Sample_Key_1.pdf](../assets/week6/quizzes/Week6_Sample_Key_1.pdf)
+Practice Quiz 2 (Spring 2024): [Week6_Sample_Questions_2.pdf](../assets/week6/quizzes/Week6_Sample_Questions_2.pdf) | [Week6_Sample_Key_2.pdf](../assets/week6/quizzes/Week6_Sample_Key_2.pdf)
+Practice Quiz 3 (Spring 2024): [Week6_Sample_Questions_3.pdf](../assets/week6/quizzes/Week6_Sample_Questions_3.pdf) | [Week6_Sample_Key_3.pdf](../assets/week6/quizzes/Week6_Sample_Key_3.pdf)
+
+---
+
 ## Algorithms
 * Reading: Section 13.1 through 13.5
 <!-- * [Lecture slides (Algorithms)](https://docs.google.com/presentation/d/1v-s_qkI3ttwOIgvIA9aZ2_5ulvhqEzQS31B5AQ4y-28/edit?usp=sharing) -->
