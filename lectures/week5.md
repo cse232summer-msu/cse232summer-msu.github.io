@@ -10,6 +10,11 @@ description: Lectures for week 5.
 
 ---
 
+Practice Quiz 1 (Spring 2024): [Week5_Sample_Questions_1.pdf](../assets/week5/quizzes/Week5_Sample_Questions_1.pdf) | [Week5_Sample_Key_1.pdf](../assets/week5/quizzes/Week5_Sample_Key_1.pdf)
+Practice Quiz 2 (Spring 2024): [Week5_Sample_Questions_2.pdf](../assets/week5/quizzes/Week5_Sample_Questions_2.pdf) | [Week5_Sample_Key_2.pdf](../assets/week5/quizzes/Week5_Sample_Key_2.pdf)
+
+---
+
 ## Friends
 * Reading: None
 <!-- * [Lecture slides (Friends)](https://docs.google.com/presentation/d/1EtCWxGtGsXr5Woz5zijJugc69vr0q8NiQngVRcN9ogc/edit?usp=sharing) -->
