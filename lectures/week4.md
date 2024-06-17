@@ -10,6 +10,11 @@ description: Lectures for week 4.
 
 ---
 
+Exam 2 MCQ Answers: [CSE_232_Exam_2_MCQ.pdf](../assets/week4/quizzes/CSE_232_Exam_2_MCQ.pdf) |
+Exam 2 SQ Answers: [CSE_232_Exam_2_SQ.pdf](../assets/week4/quizzes/CSE_232_Exam_2_SQ.pdf) |
+
+---
+
 Flash Quiz 6 Answers: [CSE_232_Flash_Quiz_6.pdf](../assets/week4/quizzes/CSE_232_Flash_Quiz_6.pdf) |
 
 ---
