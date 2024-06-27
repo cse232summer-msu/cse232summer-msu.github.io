@@ -10,6 +10,10 @@ description: Lectures for week 6.
 
 ---
 
+Flash Quiz 8 Answers: [CSE_232_Flash_Quiz_8.pdf](../assets/week6/quizzes/CSE_232_Flash_Quiz_8.pdf) |
+
+---
+
 Practice Quiz 1 (Spring 2024): [Week6_Sample_Questions_1.pdf](../assets/week6/quizzes/Week6_Sample_Questions_1.pdf) | [Week6_Sample_Key_1.pdf](../assets/week6/quizzes/Week6_Sample_Key_1.pdf)
 Practice Quiz 2 (Spring 2024): [Week6_Sample_Questions_2.pdf](../assets/week6/quizzes/Week6_Sample_Questions_2.pdf) | [Week6_Sample_Key_2.pdf](../assets/week6/quizzes/Week6_Sample_Key_2.pdf)
 Practice Quiz 3 (Spring 2024): [Week6_Sample_Questions_3.pdf](../assets/week6/quizzes/Week6_Sample_Questions_3.pdf) | [Week6_Sample_Key_3.pdf](../assets/week6/quizzes/Week6_Sample_Key_3.pdf)
