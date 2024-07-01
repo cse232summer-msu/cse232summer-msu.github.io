@@ -18,7 +18,7 @@ All times listed here are based on Eastern Standard Time. If you are in a differ
 
 May 30, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 
-[Zoom link available the day of the exam]()
+[Zoom link was available during the day of the exam]()
 
 * Meeting ID: \*\*\* \*\*\*\* \*\*\*
 * Passcode: \*\*\*\*\*
@@ -27,7 +27,7 @@ May 30, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 
 June 13, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 
-[Zoom link available the day of the exam]()
+[Zoom link was available during the day of the exam]()
 
 * Meeting ID: \*\*\* \*\*\*\* \*\*\*
 * Passcode: \*\*\*\*\*
@@ -36,10 +36,10 @@ June 13, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 
 June 27, 2024 (Thursday) | 6:00pm - 8:00pm (EST)
 
-[Zoom link](https://msu.zoom.us/j/93439649771)
+[Zoom link was available during the day of the exam]()
 
-* Meeting ID: 934 3964 9771
-* Passcode: 944132
+* Meeting ID: \*\*\* \*\*\*\* \*\*\*
+* Passcode: \*\*\*\*\*
 
 <!-- ---
 
