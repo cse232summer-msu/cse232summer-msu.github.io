@@ -10,6 +10,11 @@ description: Lectures for week 6.
 
 ---
 
+Final Exam MCQ Answers: [CSE_232_Final_Exam_MCQ.pdf](../assets/week6/quizzes/CSE_232_Final_Exam_MCQ.pdf) |
+Final Exam SQ Answers: [CSE_232_Final_Exam_SQ.pdf](../assets/week6/quizzes/CSE_232_Final_Exam_SQ.pdf) |
+
+---
+
 Flash Quiz 8 Answers: [CSE_232_Flash_Quiz_8.pdf](../assets/week6/quizzes/CSE_232_Flash_Quiz_8.pdf) |
 
 ---
