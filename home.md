@@ -44,7 +44,7 @@ Resources:
 
 There are two online asynchronous assignments and two online asynchronous flash quizzes every week, starting from the second week. Assignments are due Mondays and Thursdays before 11:59pm. Flash quizzes are due Tuesdays and Fridays before 11:59pm. Due dates are subject to change, but if a change is made, an announcement will be posted on Ed Discussion.
 
-There are also three online synchronous exams. The exam dates and times are TBD.
+There are also three online synchronous exams in this course. The exam details can be found on [Exam Polocies](../exam_policies).
 
 <!-- Below are links to the lectures for that week. All other material will be provided via D2L. -->
 
